@@ -6,3 +6,4 @@
 
 ### Hi there 👋
 ![JeeWoo's github stats](https://github-readme-stats.vercel.app/api?username=cjw020607&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjw020607&layout=compact&theme=default)
