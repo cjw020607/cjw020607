@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <br>
-    <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> 
     <br>
