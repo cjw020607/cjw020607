@@ -4,7 +4,7 @@
  </div>
  <div align=center>
  
-## Hi 👋
+## Hello 👋
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjw020607&layout=compact&theme=solarized-light)
   
