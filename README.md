@@ -2,9 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20JeeWoo%20%20&height=200&fontSize=100&width=100%)
 </div>
+<p>
+  <span style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=cjw020607&show_icons=true&theme=react" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjw020607&layout=compact&theme=solarized-light" /> 
+  </span>
+</p>
+<div>
 
-<div style="width: 80%; margin: 0 auto;">
- 
 ## About me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjw020607%2Fhit-counter&count_bg=%2387A3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -42,13 +47,8 @@
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
     </div>
 </p>
-<p align="center">
-  <span style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cjw020607&show_icons=true&theme=react" width="48%">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=cjwblue347" width="48%">
-  </span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjw020607&layout=compact&theme=solarized-light" /> 
-</p>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=cjwblue347" width="40%">
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
