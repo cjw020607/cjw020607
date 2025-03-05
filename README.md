@@ -4,7 +4,7 @@
 </div>
 <div align-items="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=cjw020607&show_icons=true&theme=react" width="52%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=cjw020607&show_icons=true&theme=react" width="55%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjw020607&layout=compact&theme=solarized-light" width="42%"/> 
   </span>
 </div>
