@@ -2,12 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20JeeWoo%20%20&height=200&fontSize=100&width=100%)
 </div>
-<p>
-  <span style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cjw020607&show_icons=true&theme=react" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjw020607&layout=compact&theme=solarized-light" /> 
+<div align-items="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=cjw020607&show_icons=true&theme=react">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjw020607&layout=compact&theme=solarized-light"/> 
   </span>
-</p>
+</div>
 <div>
 
 ## About me
